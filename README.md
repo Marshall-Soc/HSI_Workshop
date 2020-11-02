@@ -7,7 +7,6 @@ This repository contains the materials for the "A Brief Introduction to Topic Mo
 ## Primary Materials
 The primary materials are in the "Primary_Materials" folder. The contains include the slide deck (topic_models.pdf), the R script to work through the slide deck (topic_models.R), and the U.S. State of the Union presidential addresses (data_corpus_sotu.rda) culled from the `quanteda.corpora` package maintained by [Kenneth Benoit, Kohei Watanabe, and Stefan Müeller](https://github.com/quanteda/quanteda.corpora).
 
-### Getting Started
 To get started, download this repository using the green "Code" button in the top-right corner. Download the repo as a ZIP file, then decompress it. After this, move the repo to wherever you want and open topic_model.R. Set your working directory to the outer-most folder of the repo. Then, to get your data ready, run this:
 
 ```r
