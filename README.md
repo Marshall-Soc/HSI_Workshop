@@ -11,4 +11,4 @@ The primary materials are in the "Topic_Modeling" folder. The contains include t
 I have also included a *very* brief introduction to R slide deck (intro_R.pdf) and script (intro_R.R) in the "Additional_Materials" folder. Also, for those of you interested in using topic modeling output in a regression context (to, e.g., regress document-topic probability distributions on covariates to model variation in topic prevalence and/or topic content), I included a slide deck (stm.pdf) and R script (stm.R) for a method known as [*structural topic modeling*](https://www.structuraltopicmodel.com/).
 
 ## Acknowledgements
-The 2020 HSI Learning Resilience Conference--on which I was a co-PI and co-organizer--was funded by the National Science Foundation (award number: 2041515).
+The 2020 HSI Learning Resilience Conference---on which I was a co-PI and co-organizer---was funded by the National Science Foundation (award number: 2041515).
